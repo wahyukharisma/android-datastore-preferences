@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SamplePrefDataStore</string>
+    <string name="title_nama">Nama</string>
+    <string name="title_simpan">Simpan</string>
+</resources>
